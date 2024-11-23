@@ -8,5 +8,3 @@ incorrect code2
 new line added
 
 Added dockerfile for cicid deployment
-
-deployement done..!
